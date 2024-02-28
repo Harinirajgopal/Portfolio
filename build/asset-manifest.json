@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f8dccdaf.js",
+    "static/media/Harini.jpg": "/static/media/Harini.e55bffe47bec20e53960.jpg",
+    "index.html": "/index.html",
+    "main.f8dccdaf.js.map": "/static/js/main.f8dccdaf.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f8dccdaf.js"
+  ]
+}
